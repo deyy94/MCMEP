@@ -1,0 +1,102 @@
+body{
+	color: #000000;
+	font-family: arial;
+	font-size: 11px;
+}
+
+.textoNormalL{
+	color: #23578D;
+	font-family: arial;
+	font-size: 11px;
+	text-align: left;
+}
+
+.textoNormalC{
+	color: #23578D;
+	font-family: arial;
+	font-size: 11px;
+	text-align: center;
+}
+
+.textoNormalR{
+	color: #23578D;
+	font-family: arial;
+	font-size: 11px;
+	text-align: right;
+}
+
+.textoTitulo{
+	color: #23578D;
+	font-family: arial;
+	font-size: 12px;
+	font-weight: bold;
+}
+
+.textoMini{
+	color: #000000;
+	font-family: arial;
+	font-size: 10px;
+}
+
+.textoError{
+	color: #66AB1D;
+	font-family: arial;
+	font-size: 11px;
+	font-weight: bold;
+}
+
+table.tablaLogin{
+	width: 300px;
+}
+
+td.renglonNormal{
+	background: #FFFFFF;
+	border: 2px solid #000000;
+	padding: 15px 0px 15px 0px;
+}
+
+td.renglonTitulo{
+	color: #23578D;
+	background: #CED8E0;
+	font-family: arial;
+	font-size: 13px;
+	font-weight: bold;
+	padding: 5px 0px 5px 0px;
+}
+
+a.liga{
+	color: #66AB1D;
+	font-family: arial;
+	font-size: 11px;
+	font-weight: bold;
+	text-decoration: none;
+}
+
+a.ligaMenu{
+	color: #BBBBBB;
+	font-family: arial;
+	font-size: 11px;
+	font-weight: bold;
+	text-decoration: none;
+}
+
+a.ligaMenu:hover{
+	color: #2200AA;
+}
+
+input, textarea.caja{
+	font-family: arial;
+	font-size: 11px;
+    height: 22px;
+}
+
+select.caja{
+	font-family: arial;
+	font-size: 11px;
+}
+
+input.boton{
+	font-family: arial;
+	font-size: 12px;
+	border: 1px solid #000000;
+}

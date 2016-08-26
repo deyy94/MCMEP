@@ -1,0 +1,50 @@
+c:\users\danygerous\documents\visual studio 2012\Projects\aperturAutomatica\aperturAutomatica\bin\aperturAutomatica.dll
+c:\users\danygerous\documents\visual studio 2012\Projects\aperturAutomatica\aperturAutomatica\bin\aperturAutomatica.pdb
+c:\users\danygerous\documents\visual studio 2012\Projects\aperturAutomatica\aperturAutomatica\obj\Debug\aperturAutomatica.csprojResolveAssemblyReference.cache
+c:\users\danygerous\documents\visual studio 2012\Projects\aperturAutomatica\aperturAutomatica\obj\Debug\aperturAutomatica.dll
+c:\users\danygerous\documents\visual studio 2012\Projects\aperturAutomatica\aperturAutomatica\obj\Debug\aperturAutomatica.pdb
+C:\Users\Danygerous\documents\visual studio 2012\Projects\aperturAutomatica\aperturAutomatica\bin\Interop.ORADCLib.dll
+C:\Users\Danygerous\documents\visual studio 2012\Projects\aperturAutomatica\aperturAutomatica\obj\Debug\Interop.ORADCLib.dll
+C:\Users\Danygerous\documents\visual studio 2012\Projects\aperturAutomatica\aperturAutomatica\obj\Debug\aperturAutomatica.csproj.ResolveComReference.cache
+C:\Users\Danygerous\Documents\Visual Studio 2012\Projects\aperturAutomatica\aperturAutomatica\bin\itextsharp.dll
+C:\Users\Telmex\Documents\Capufe\aperturAutomatica\aperturAutomatica\aperturAutomatica\bin\aperturAutomatica.dll.config
+C:\Users\Telmex\Documents\Capufe\aperturAutomatica\aperturAutomatica\aperturAutomatica\bin\aperturAutomatica.dll
+C:\Users\Telmex\Documents\Capufe\aperturAutomatica\aperturAutomatica\aperturAutomatica\bin\aperturAutomatica.pdb
+C:\Users\Telmex\Documents\Capufe\aperturAutomatica\aperturAutomatica\aperturAutomatica\obj\Debug\aperturAutomatica.csprojResolveAssemblyReference.cache
+C:\Users\Telmex\Documents\Capufe\aperturAutomatica\aperturAutomatica\aperturAutomatica\obj\Debug\aperturAutomatica.csproj.ResolveComReference.cache
+C:\Users\Telmex\Documents\Capufe\aperturAutomatica\aperturAutomatica\aperturAutomatica\obj\Debug\aperturAutomatica.dll
+C:\Users\Telmex\Documents\Capufe\aperturAutomatica\aperturAutomatica\aperturAutomatica\obj\Debug\aperturAutomatica.pdb
+C:\Users\Telmex\Documents\Capufe\aperturAutomaticaVersion1.0\aperturAutomatica\aperturAutomatica\obj\Debug\aperturAutomatica.csprojResolveAssemblyReference.cache
+C:\Users\Telmex\Documents\Capufe\aperturAutomaticaVersion1.0\aperturAutomatica\aperturAutomatica\obj\Debug\aperturAutomatica.csproj.ResolveComReference.cache
+C:\Users\Telmex\Documents\Capufe\aperturAutomaticaVersion1.0\aperturAutomatica\aperturAutomatica\obj\Debug\aperturAutomatica.dll
+C:\Users\Telmex\Documents\Capufe\aperturAutomaticaVersion1.0\aperturAutomatica\aperturAutomatica\obj\Debug\aperturAutomatica.pdb
+C:\Users\Telmex\Documents\Capufe\aperturAutomaticaVersion1.0\aperturAutomatica\aperturAutomatica\bin\aperturAutomatica.dll.config
+C:\Users\Telmex\Documents\Capufe\aperturAutomaticaVersion1.0\aperturAutomatica\aperturAutomatica\bin\aperturAutomatica.dll
+C:\Users\Telmex\Documents\Capufe\aperturAutomaticaVersion1.0\aperturAutomatica\aperturAutomatica\bin\aperturAutomatica.pdb
+C:\Users\Telmex\Dropbox\MCMEP\aperturAutomaticaVersion1.1\aperturAutomatica\aperturAutomatica\bin\aperturAutomatica.dll.config
+C:\Users\Telmex\Dropbox\MCMEP\aperturAutomaticaVersion1.1\aperturAutomatica\aperturAutomatica\bin\aperturAutomatica.dll
+C:\Users\Telmex\Dropbox\MCMEP\aperturAutomaticaVersion1.1\aperturAutomatica\aperturAutomatica\bin\aperturAutomatica.pdb
+C:\Users\Telmex\Dropbox\MCMEP\aperturAutomaticaVersion1.1\aperturAutomatica\aperturAutomatica\obj\Debug\aperturAutomatica.csprojResolveAssemblyReference.cache
+C:\Users\Telmex\Dropbox\MCMEP\aperturAutomaticaVersion1.1\aperturAutomatica\aperturAutomatica\obj\Debug\aperturAutomatica.csproj.ResolveComReference.cache
+C:\Users\Telmex\Dropbox\MCMEP\aperturAutomaticaVersion1.1\aperturAutomatica\aperturAutomatica\obj\Debug\aperturAutomatica.dll
+C:\Users\Telmex\Dropbox\MCMEP\aperturAutomaticaVersion1.1\aperturAutomatica\aperturAutomatica\obj\Debug\aperturAutomatica.pdb
+C:\Users\Telmex\Dropbox\MCMEP\aperturAutomatica\aperturAutomatica\aperturAutomatica\bin\aperturAutomatica.dll.config
+C:\Users\Telmex\Dropbox\MCMEP\aperturAutomatica\aperturAutomatica\aperturAutomatica\bin\aperturAutomatica.dll
+C:\Users\Telmex\Dropbox\MCMEP\aperturAutomatica\aperturAutomatica\aperturAutomatica\bin\aperturAutomatica.pdb
+C:\Users\Telmex\Dropbox\MCMEP\aperturAutomatica\aperturAutomatica\aperturAutomatica\obj\Debug\aperturAutomatica.csprojResolveAssemblyReference.cache
+C:\Users\Telmex\Dropbox\MCMEP\aperturAutomatica\aperturAutomatica\aperturAutomatica\obj\Debug\aperturAutomatica.csproj.ResolveComReference.cache
+C:\Users\Telmex\Dropbox\MCMEP\aperturAutomatica\aperturAutomatica\aperturAutomatica\obj\Debug\aperturAutomatica.dll
+C:\Users\Telmex\Dropbox\MCMEP\aperturAutomatica\aperturAutomatica\aperturAutomatica\obj\Debug\aperturAutomatica.pdb
+D:\Dropbox\MCMEP\aperturAutomatica\aperturAutomatica\aperturAutomatica\bin\aperturAutomatica.dll
+D:\Dropbox\MCMEP\aperturAutomatica\aperturAutomatica\aperturAutomatica\bin\aperturAutomatica.pdb
+D:\Dropbox\MCMEP\aperturAutomatica\aperturAutomatica\aperturAutomatica\obj\Debug\aperturAutomatica.csprojResolveAssemblyReference.cache
+D:\Dropbox\MCMEP\aperturAutomatica\aperturAutomatica\aperturAutomatica\obj\Debug\aperturAutomatica.csproj.ResolveComReference.cache
+D:\Dropbox\MCMEP\aperturAutomatica\aperturAutomatica\aperturAutomatica\obj\Debug\aperturAutomatica.dll
+D:\Dropbox\MCMEP\aperturAutomatica\aperturAutomatica\aperturAutomatica\obj\Debug\aperturAutomatica.pdb
+C:\Users\David\Dropbox\MCMEP\aperturAutomatica\aperturAutomatica\aperturAutomatica\bin\aperturAutomatica.dll.config
+C:\Users\David\Dropbox\MCMEP\aperturAutomatica\aperturAutomatica\aperturAutomatica\bin\aperturAutomatica.dll
+C:\Users\David\Dropbox\MCMEP\aperturAutomatica\aperturAutomatica\aperturAutomatica\bin\aperturAutomatica.pdb
+C:\Users\David\Dropbox\MCMEP\aperturAutomatica\aperturAutomatica\aperturAutomatica\obj\Debug\aperturAutomatica.csproj.ResolveComReference.cache
+C:\Users\David\Dropbox\MCMEP\aperturAutomatica\aperturAutomatica\aperturAutomatica\obj\Debug\aperturAutomatica.dll
+C:\Users\David\Dropbox\MCMEP\aperturAutomatica\aperturAutomatica\aperturAutomatica\obj\Debug\aperturAutomatica.pdb
+C:\Users\David\Dropbox\MCMEP\aperturAutomatica\aperturAutomatica\aperturAutomatica\obj\Debug\aperturAutomatica.csprojResolveAssemblyReference.cache

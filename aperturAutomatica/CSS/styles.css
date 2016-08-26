@@ -1,0 +1,129 @@
+/*Encabezados*/
+
+#background {
+    padding-left: 25%;
+    background-image: url(../images/main_bg.gif);
+}
+
+#head {
+    background-image: url(../images/header1.jpg);
+    width: 780px;
+    height: 142px;
+}
+
+#logo {
+    float: left;
+    padding-left: 40px;
+    padding-top: 25px;
+}
+
+#barra_titulo {
+    float: right;
+    padding-top: 40px;
+    padding-right: 40px;
+}
+
+#titulo {
+    color: #04749C;
+    font-size: 25px;
+    font-weight: 400;
+}
+
+#subtitulo {
+    color: GrayText;
+}
+
+/*Fondo de formulario*/
+
+#green_background {
+    vertical-align: central;
+    width: 780px;
+    height: 780px;
+    background-image: url(../images/text_colorbg.gif);
+    background-repeat: repeat-x;
+    color: #04749C;
+    text-align: center;
+}
+
+#white_background {
+    width: 750px;
+    height: 350px;
+    background-color: white;
+    background-repeat: repeat-x;
+    margin: 15px;
+}
+
+#head_form {
+    background-image: url(../images/text_header.gif);
+    text-align: left;
+    PADDING-LEFT: 20px;
+    padding-top: 3px;
+    FONT-WEIGHT: bold;
+    FONT-SIZE: 8pt;
+    COLOR: #333333;
+    FONT-FAMILY: tahoma,arial;
+    HEIGHT: 26px;
+}
+
+#formulario {
+    align-content: center;
+    padding: 100px 250px 100px 250px;
+}
+
+/*Apertura*/
+
+#green_background_ap {
+    vertical-align: central;
+    width: 780px;
+    height: 880px;
+    background-image: url(../images/text_colorbg2.gif);
+    background-repeat: repeat-x;
+    color: #04749C;
+    text-align: center;
+}
+
+#white_background_ap {
+    width: 750px;
+    height: 550px;
+    background-color: white;
+    background-repeat: repeat-x;
+    margin: 15px;
+}
+
+.wrapper-dropdown {
+    /* Size and position */
+    position: relative; /* Enable absolute positioning for children and pseudo elements */
+    width: 200px;
+    /* Styles */
+    background: #9bc7de;
+    color: #fff;
+    outline: none;
+    cursor: pointer;
+    /* Font settings */
+    /*font-weight: bold;*/
+    font-family: arial !important;
+    font-size: 11px !important;
+    top: 2px;
+    left: 8px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.Initial {
+    text-align: right;
+}
+
+.auto-style1 {
+    text-align: center;
+}
+
+#tabla {
+    width: 100%;
+    border-width: 1px;
+    border-color: #666;
+    border-style: solid;
+}
+
+#GridView {
+    max-width: 300px;
+}
