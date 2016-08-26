@@ -523,6 +523,12 @@ namespace aperturAutomatica
             }
         }
 
+        /// <summary>
+        /// Metodo para consultar el estado de conciliacion antes de aperturar 
+        /// </summary>
+        /// <param name="fecha">fecha base (dd/mm/yyyy)</param>
+        /// <param name="plaza">clave de la plaza de cobro</param>
+        /// <returns>devuelve True si es posible realziar la apertura, false para no realizar la apertura</returns>
         public bool consultaEdoConciliacion(String fecha, String plaza)
         {
             OracleConnection con = conexion();
