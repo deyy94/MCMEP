@@ -184,15 +184,6 @@ namespace aperturAutomatica {
         protected global::System.Web.UI.WebControls.Button btnLimpiar;
         
         /// <summary>
-        /// btnsalirAperturas control.
-        /// </summary>
-        /// <remarks>
-        /// Auto-generated field.
-        /// To modify move field declaration from designer file to code-behind file.
-        /// </remarks>
-        protected global::System.Web.UI.WebControls.Button btnsalirAperturas;
-        
-        /// <summary>
         /// lblExc control.
         /// </summary>
         /// <remarks>
@@ -407,15 +398,6 @@ namespace aperturAutomatica {
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
         protected global::System.Web.UI.WebControls.Button btnLimpiarR;
-        
-        /// <summary>
-        /// btnsalirReportes control.
-        /// </summary>
-        /// <remarks>
-        /// Auto-generated field.
-        /// To modify move field declaration from designer file to code-behind file.
-        /// </remarks>
-        protected global::System.Web.UI.WebControls.Button btnsalirReportes;
         
         /// <summary>
         /// SqlDataSource1 control.

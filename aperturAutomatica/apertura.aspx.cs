@@ -322,7 +322,10 @@ namespace aperturAutomatica
             }
             CalendarFin.Visible = false;
         }
-
+        /// <summary>
+        /// Boton enviar en reportes  
+        /// </summary>
+        
         protected void btnEnviarR_Click1(object sender, EventArgs e)
         {
             string campo = "Campo Obligatorio";
@@ -1938,7 +1941,9 @@ namespace aperturAutomatica
             }
 
         }
-
+        /// <summary>
+        /// Este metodo simplemente envia un correo cada vez que se invoque 
+        /// </summary>
         protected void enviarCorreo()
         {
 

@@ -66,7 +66,8 @@
                               OnClick="Tab4_Click" Width="70px" Height="20px" Style="text-align:left; background: -webkit-linear-gradient(#909090 ,white); background: -o-linear-gradient(#909090  , white); background: -moz-linear-gradient(#909090  , white);background: linear-gradient(#909090  , white); "/>
                     <asp:Button Text="Exentos" BorderStyle="None" ID="Tab5" CssClass="Initial" runat="server"
                               OnClick="Tab5_Click" Width="70px" Height="20px" Style="text-align:left; background: -webkit-linear-gradient(#909090 ,white); background: -o-linear-gradient(#909090  , white); background: -moz-linear-gradient(#909090  , white);background: linear-gradient(#909090  , white); "/>
-                     <asp:Button ID="Button1" runat="server" OnClick="btnCerrar_Click"  Text="Salir" />
+                     <asp:Button ID="Button1" CssClass="Initial" runat="server" 
+                         OnClick="btnCerrar_Click"  Text="Salir" Style="text-align:left; background: -webkit-linear-gradient(#909090 ,white); background: -o-linear-gradient(#909090  , white); background: -moz-linear-gradient(#909090  , white);background: linear-gradient(#909090  , white); "/>
                                                 
                                                
             <asp:Label style="padding-left: 450px; color:white;"  ID="lblSesion" runat="server"></asp:Label>
@@ -92,8 +93,8 @@
                                       
                                     <table style="margin: 0 auto; width:350px" class="auto-style4" >
                                         <tr>
-                                            <td class="Initial">Plaza de Cobro:</td>
-                                            <td>
+                                            <td class="Initial">Plaza de Cobro:   </td>
+                                            <td class="auto-style2">
                                                 <asp:DropDownList ID="drpPlaza" runat="server" AppendDataBoundItems="True" AutoPostBack="True" CssClass="wrapper-dropdown" DataSourceID="SqlDataSource4" DataTextField="DESCRIPCION" DataValueField="CVE_TRAM_CAM" OnSelectedIndexChanged="drpPlaza_SelectedIndexChanged"  BackColor="White" ForeColor="Black"  Height="25px" Width="180px">
                                                     <asp:ListItem Value="0">-SELECCIONA PLAZA-</asp:ListItem>
                                                 </asp:DropDownList>
@@ -133,9 +134,7 @@
                                                  <asp:Button ID="btnLimpiar" runat="server" OnClick="txtLimpiar_Click" Text="Limpiar" />
                                               </td>
                                              <td>
-                                                 <asp:Button ID="btnsalirAperturas" runat="server" OnClick="btnCerrar_Click"  Text="Salir" />
-                                                
-                                             </td>
+                                                 &nbsp;</td>
 
                                             
                                              
@@ -164,7 +163,7 @@
                                               <td class="Initial">
                                                   Reporte:
                                               </td>
-                                              <td >
+                                              <td class="auto-style2">
                                                 
                                                   
                                                   <asp:DropDownList ID="drpDes" runat="server" AppendDataBoundItems="True" AutoPostBack="True" CssClass="wrapper-dropdown" OnSelectedIndexChanged="drpDes_SelectedIndexChanged" BackColor="White" ForeColor="Black" Height="25px" Width="200px">                                                      
@@ -188,7 +187,7 @@
                                               <td class="Initial">
                                                 <asp:Label ID="Label1" runat="server">Tipo de red:</asp:Label>
                                               </td>
-                                              <td >
+                                              <td class="auto-style2">
                                                   <asp:DropDownList ID="drpTipoRed" runat="server"  AppendDataBoundItems="True" AutoPostBack="True" CssClass="wrapper-dropdown" BackColor="White" ForeColor="Black" Height="25px" Width="200px" OnSelectedIndexChanged="drpTipoRed_SelectedIndexChanged">
                                                       <asp:ListItem Value="0">-SELECCIONA UN TIPO DE RED-</asp:ListItem>
                                                       <asp:ListItem Value="1">Red propia</asp:ListItem>
@@ -203,7 +202,7 @@
                                                   &nbsp;<asp:Label ID="lblPlazaC" runat="server" Text="Plaza de cobro:"></asp:Label>
                                               </td>
                                               
-                                              <td >
+                                              <td class="auto-style2">
                                                   <asp:DropDownList ID="drpPlazaR" runat="server" AppendDataBoundItems="True" AutoPostBack="True" CssClass="wrapper-dropdown" DataSourceID="SqlDataSource1" DataTextField="DESCRIPCION" DataValueField="CVE_TRAM_CAM" OnSelectedIndexChanged="drpPlazaR_SelectedIndexChanged"  BackColor="White" ForeColor="Black" Height="25px" Width="200px" Visible="False">
                                                       <asp:ListItem Value="0">-SELECCIONA PLAZA-</asp:ListItem>
                                                   </asp:DropDownList>
@@ -275,8 +274,7 @@
                                                  <asp:Button ID="btnLimpiarR" runat="server" Text="Limpiar" OnClick="btnLimpiarR_Click" />
                                              </td>
                                              <td>
-                                                 <asp:Button ID="btnsalirReportes" runat="server" Text="Salir" OnClick="btnsalirReportes_Click" />
-                                             </td>
+                                                 &nbsp;</td>
                                          </tr>
                                      </table>
                                           
